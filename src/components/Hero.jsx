@@ -6,7 +6,7 @@ const Hero = () => {
       <nav className="flex justify-between items-center flex-col">
         <img src={logo} alt='sumz_logo' className='w-28 object-contain' />
 
-        <button type='button' onClick={() => window.open('your github link to the project')}
+        <button type='button' onClick={() => window.open('https://github.com/UrvikP/AI_Summarizer')}
          className='black_btn'>
           Github
         </button>
