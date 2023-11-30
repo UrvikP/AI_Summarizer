@@ -1,7 +1,7 @@
 
 const Demo = () => {
   return (
-    <div>Demo</div>
+    <div>Demo Git is installef and can be updated</div>
   )
 }
 
